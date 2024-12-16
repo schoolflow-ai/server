@@ -1,0 +1,34 @@
+{
+	"invalid": "No hay una cuenta con ese ID",
+	"plan_required": "Please sign up for a plan to use this feature",
+	"card": {
+		"missing": "Por favor, introduce los detalles de tu tarjeta de crédito",
+		"updated": "Los detalles de tu tarjeta han sido actualizados"
+	},
+	"create": {
+		"denied": "Registro denegado",
+		"duplicate": "Ya has registrado una cuenta",
+		"duplicate_child": "Ya tienes una cuenta registrada con esta dirección de correo electrónico. Por favor, introduce tu contraseña original para continuar",
+		"password_same_as_email": "La contraseña no puede ser la misma que el correo electrónico"
+	},
+	"delete": {
+		"invalid_password": "Por favor, introduce la contraseña correcta",
+		"success": "Tu cuenta ha sido eliminada"
+	},
+	"plan": {
+		"invalid": "El plan no existe. Por favor, selecciona otro plan e intenta de nuevo",
+		"active": "Ya estás en el plan {{plan}}",
+		"payment_required": "Por favor, actualiza tu cuenta",
+		"updated": "Tu cuenta ha sido actualizada al plan {{plan}}",
+		"subscription_canceled": "Tu suscripción fue cancelada, por favor, actualiza tu cuenta",
+		"master_upgrade": "El titular de la cuenta necesitará introducir los detalles de su tarjeta y actualizar a un plan de pago",
+		"requires_action": "⚠️  El pago con Stripe requiere más acciones",
+		"plan_exists": "Ya estás en un plan. Por favor, cancela tu plan antes de suscribirte a uno nuevo."
+	},
+	"log": {
+		"creating": "⏱️  Creando cuenta para: {{email}}",
+		"created": "✅ Cuenta creada para: {{email}}",
+		"deleted": "🗑️  Cuenta eliminada: {{email}}",
+		"plan": "✅ Cliente añadido al plan"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "create": {
+    "success": "Event created"
+  },
+  "get": {
+    "id_required": "Event ID is required"
+  },
+  "delete": {
+    "success": "Event deleted",
+    "id_required": "Event ID is required"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "account_deactivated": "Tu cuenta ha sido desactivada. Por favor, contacta con el soporte",
+  "account_disabled": "Tu cuenta ha sido deshabilitada debido a actividad sospechosa. Por favor, revisa tu correo electrónico para más instrucciones",
+  "account_doesnt_exist": "No estás registrado",
+  "header_required": "Se requiere el encabezado de autorización",
+  "invalid_account": "No eres miembro de esta cuenta",
+  "invalid_api_key": "Clave API inválida",
+  "invalid_credentials": "Por favor, introduce los detalles de inicio de sesión correctos",
+  "invalid_email": "Dirección de correo electrónico inválida, por favor intenta iniciar sesión de nuevo",
+  "invalid_header_type": "Tipo de encabezado no reconocido",
+  "invalid_permission": "No tienes permiso para realizar esta acción",
+  "invalid_scope": "No tienes permiso para usar este alcance",
+  "invalid_token": "Token inválido",
+  "invalid_verification_code": "Código de verificación inválido. Por favor, intenta de nuevo",
+  "signin_blocked": "Tu intento de inicio de sesión ha sido bloqueado debido a actividad sospechosa. Por favor, revisa tu correo electrónico para más instrucciones",
+  "token_expired": "El token ha expirado, por favor intenta iniciar sesión de nuevo",
+  "token_required": "Se requiere token de autorización",
+  "unverified_account": "Por favor, verifica tu cuenta para acceder a este recurso"
+}

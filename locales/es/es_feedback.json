@@ -1,0 +1,9 @@
+{
+  "create": {
+    "success": "Feedback guardado"
+  },
+  "delete": {
+    "success": "Elemento de feedback eliminado",
+    "id_required": "El ID del elemento de feedback es requerido"
+  }
+}

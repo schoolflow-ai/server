@@ -1,0 +1,18 @@
+{
+  "already_accepted": "{{email}} ya aceptó una invitación",
+  "duplicates_ignored": "- detectadas e ignoradas",
+  "invalid": "Por favor, proporciona un ID de invitación",
+  "invalid_permission": "El tipo de permiso solo puede ser dueño o administrador",
+  "max_emails": "Máx {{max}} correos electrónicos por invitación",
+  "get": {
+    "id_required": "Por favor, proporciona un ID de invitación"
+  },
+  "delete": {
+    "success": "Invitación eliminada",
+    "id_required": "Por favor, proporciona un ID de invitación"
+  },
+  "sent": {
+    "one": "Invitación enviada",
+    "other": "Invitaciones enviadas"
+  }
+}

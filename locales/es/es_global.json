@@ -1,0 +1,16 @@
+{
+	"welcome": "Bienvenido a Gravity 🚀",
+	"months": "Ene,Feb,Mar,Abr,May,Jun,Jul,Ago,Sep,Oct,Nov",
+	"error": "Ocurrió un error interno. Por favor, inténtelo de nuevo o contáctenos.",
+	"validation": {
+		"default": "{{field}} es inválido",
+		"required": "{{field}} es requerido",
+		"invalid": "{{field}} es inválido",
+		"min_length": "{{field}} debe tener al menos {{min}} caracteres",
+		"max_length": "{{field}} debe tener como máximo {{max}} caracteres",
+		"email": "{{field}} debe ser una dirección de email válida",
+		"number.min": "{{field}} debe ser al menos {{min}}",
+		"number.max": "{{field}} debe ser como máximo {{max}}",
+		"password": "El {{field}} debe contener al menos un carácter especial (por ejemplo, !@#$%^&*)."
+	}
+}

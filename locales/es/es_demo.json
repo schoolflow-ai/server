@@ -1,0 +1,20 @@
+{
+  "revenue": "Ingresos",
+  "user": "Usuario",
+  "churn": "abandono",
+  "owner": "Propietario",
+  "admin": "Administrador",
+  "stats": {
+    "users": "usuarios",
+    "active": "activos",
+    "churned": "abandonaron",
+    "latest": "este mes"
+  },
+  "progress": {
+    "mrr": "$100k MRR",
+    "users": "10k usuarios",
+    "churn": "2% abandono",
+    "teams": "2,500 equipos",
+    "goal": "Lanzar nuevo producto"
+  }
+}

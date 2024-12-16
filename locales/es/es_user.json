@@ -1,0 +1,47 @@
+{
+  "invalid": "No hay usuario con ese ID",
+  "invalid_id_user": "Por favor, inicia sesión o especifica un ID de usuario",
+  "invalid_id_admin": "Por favor, especifica un ID de usuario",
+  "create": {
+    "denied": "Registro denegado",
+    "duplicate": "Ya estás registrado",
+    "duplicate_child": "Ya tienes una cuenta registrada con esta dirección de correo electrónico. Por favor, introduce tu contraseña original para continuar",
+    "invalid_invite": "Invitación inválida. Por favor, contacta al titular de la cuenta"
+  },
+  "update": {
+    "duplicate_email": "Esta dirección de correo electrónico ya está registrada",
+    "language": "Idioma actualizado",
+    "profile": "Perfil actualizado",
+    "support_access": "Acceso de soporte actualizado",
+    "user": "Usuario actualizado",
+    "unauthorized": "No tienes permiso para realizar esta acción. Por favor, contacta al propietario de la cuenta",
+    "permission_error": "No puedes cambiar tu propio nivel de permiso",
+    "invalid_default_account": "No tienes acceso a esta cuenta"
+  },
+  "password": {
+    "check_email": "Por favor, revisa tu correo electrónico para más instrucciones",
+    "invalid": "Por favor, introduce la contraseña correcta",
+    "invalid_email": "Por favor, introduce la dirección de correo electrónico correcta",
+    "saved": "Tu nueva contraseña ha sido guardada",
+    "same": "Tu nueva contraseña debe ser diferente a tu contraseña actual",
+    "reset_denied": "Tu solicitud de restablecimiento de contraseña ha sido denegada"
+  },
+  "verify": {
+    "check_email": "Por favor, revisa tu correo electrónico para un nuevo enlace",
+    "verified": "Tu cuenta ha sido verificada",
+    "invalid_code": "Código de verificación inválido. Por favor, intenta de nuevo"
+  },
+  "delete": {
+    "owner": "Por favor, elimina a los propietarios de la cuenta a través de la página de la cuenta",
+    "owner_by_admin": "Los propietarios de la cuenta no pueden ser eliminados",
+    "master": "No puedes eliminar tu cuenta principal",
+    "accounts": "Usuario eliminado de todas las cuentas",
+    "owner_account": "Por favor, cierra tu propia cuenta usando la página de perfil",
+    "user_account": "No puedes eliminarte a ti mismo, por favor contacta al propietario de la cuenta",
+    "deleted": "Usuario eliminado",
+    "invalid_password": "Por favor, introduce la contraseña correcta"
+  },
+  "log": {
+    "created": "✅ Usuario creado: {{email}}"
+  }
+}

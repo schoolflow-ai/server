@@ -1,0 +1,12 @@
+{
+  "create": {
+    "success": "Evento creado"
+  },
+  "get": {
+    "id_required": "El ID del evento es requerido"
+  },
+  "delete": {
+    "success": "Evento eliminado",
+    "id_required": "El ID del evento es requerido"
+  }
+}

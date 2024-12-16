@@ -1,0 +1,15 @@
+{
+  "create": {
+    "success": "Clave API creada"
+  },
+  "get": {
+    "id_required": "Por favor, proporciona un ID de clave API"
+  },
+  "update": {
+    "id_required": "Por favor, proporciona un ID de clave API",
+    "success": "Clave API actualizada"
+  },
+  "delete": {
+    "success": "Clave API eliminada"
+  }
+}

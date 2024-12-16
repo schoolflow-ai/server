@@ -1,0 +1,22 @@
+{
+  "file": {
+    "invalid_type": "Archivos .{{type}} no están permitidos",
+    "string_not_found": "{{str}} no está presente en {{path}}"
+  },
+  "mail": {
+    "invalid_email": "Correo electrónico inválido",
+    "invalid_template": "Nombre de plantilla inválido",
+    "sent": "✉️  Correo enviado a {{email}}"
+  },
+  "notification": {
+    "error": "⛔️ Hubo un error al enviar una notificación: {{message}}",
+    "error_code": "Código de error: {{code}}",
+    "sending": "Enviando notificación push",
+    "sent": "🔔 Notificación push enviada",
+    "invalid_token": "⛔️ {{token}} no es un token Expo push válido",
+    "no_tokens": "Por favor, proporciona al menos un token push"
+  },
+  "utility": {
+    "field_required": "{{field}} es obligatorio"
+  }
+}
